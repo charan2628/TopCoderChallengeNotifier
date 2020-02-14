@@ -10,7 +10,6 @@ Sends notifications to users at their specified time through email, by filtering
 TRY IT OUT [https://custom-built.dev/app/tpcn](https://custom-built.dev/app/tpcn)
 
 ### Responsive Design
-
 ![](http://g.recordit.co/vPmL6ppMr6.gif)
 
 
@@ -20,3 +19,9 @@ TRY IT OUT [https://custom-built.dev/app/tpcn](https://custom-built.dev/app/tpcn
 
 
 ### Update notification time to your choice
+
+![](http://g.recordit.co/wvJqQ0i6xO.gif)
+
+
+### Unsubscribe from mails by clicking un-schedule link in dashboard
+![](http://g.recordit.co/hVlFVO2KMD.gif)
