@@ -4,8 +4,8 @@
 
 Sends notifications to users at their specified time through email, by filtering out previously notified challenges and filtering in by specified tags(Ex: NodeJs, Java) from TopCoder RSS Feed.
 
-**BACKEND:** [TopCoderChallengeNotifierBackend](https://github.com/charan2628/TopCoderChallengeNotifierBackend)<br/>
-**FRONTEND:** [TopCoderChallengeNotifierFrontend](https://github.com/charan2628/TopCoderChallengeNotifierFrontend)
+**BACKEND REPO:** [TopCoderChallengeNotifierBackend](https://github.com/charan2628/TopCoderChallengeNotifierBackend)<br/>
+**FRONTEND REPO:** [TopCoderChallengeNotifierFrontend](https://github.com/charan2628/TopCoderChallengeNotifierFrontend)
 
 TRY IT OUT [https://custom-built.dev/app/tpcn](https://custom-built.dev/app/tpcn)
 
